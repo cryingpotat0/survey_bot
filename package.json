@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootbot": "^1.0.12",
+    "express": "^4.15.3",
+    "fb-bot-framework": "^0.3.0",
+    "pg": "^7.1.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.4.2",
+    "valid-url": "^1.0.9"
+  }
+}

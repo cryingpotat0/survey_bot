@@ -1,0 +1,7 @@
+module.exports = {
+  GET_STARTED: 'GET_STARTED',
+  CREATE_USER: 'CREATE_USER',
+  GET_USER_INFO: 'GET_USER_INFO',
+
+}
+
